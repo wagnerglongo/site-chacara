@@ -249,8 +249,9 @@ a:hover, li:hover, button:hover{
     flex-wrap: wrap;
   }
   .modalImg.img{
-    width: 40%;
+    
     align-items: center;
+    flex:1;
   }
 }
 
