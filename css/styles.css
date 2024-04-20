@@ -249,10 +249,11 @@ a:hover, li:hover, button:hover{
     flex-wrap: wrap;
     flex-direction: column;
   }
+
   .modalImg.img{
-    
+    width:95%
     align-items: center;
-    flex:1;
+    
   }
 }
 
