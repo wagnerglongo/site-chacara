@@ -254,6 +254,7 @@ a:hover, li:hover, button:hover{
   .modalImg.img{
     width:95%;
     align-items: center;
+    margin: 5px auto;
     
   }
 }
