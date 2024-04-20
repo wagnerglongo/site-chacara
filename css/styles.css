@@ -247,6 +247,7 @@ a:hover, li:hover, button:hover{
   #fotos-aparecer{
     width: 100%;
     flex-wrap: wrap;
+    flex-direction: column;
   }
   .modalImg.img{
     
@@ -266,8 +267,3 @@ a:hover, li:hover, button:hover{
 }
 
 
-.modalImg{
-  width: 19.3%;
-  height: 200px;
-  margin: 4px;
-}
