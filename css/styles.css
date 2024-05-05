@@ -7,7 +7,8 @@
 }
 
 body {
-  background-color: #DFDFDF;
+  /* background-color: #DFDFDF; */
+  background-color: #8B0000;
 }
 
 ul {
@@ -62,7 +63,7 @@ button:hover {
   padding: 1.5rem 2.5rem;
   border-bottom: 2px solid #000000;
   border-radius: 0;
-  background-color: #DFDFDF;
+  background-color: transparent;
 }
 
 /* header {
