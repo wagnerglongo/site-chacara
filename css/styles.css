@@ -151,6 +151,12 @@ button:hover {
   flex: 1 1 0;
 }
 
+#preco {
+  font-family: HELVETICA;
+  font-weight: bold;
+  font-size: 20px;
+}
+
 #fotos a button {
   border-radius: 0;
   cursor: pointer;
