@@ -32,7 +32,7 @@ button {
 a:hover,
 li:hover,
 button:hover {
-  color: #37a1f7;
+  /* color: #37a1f7; */
 }
 
 .none {
@@ -62,7 +62,7 @@ button:hover {
   padding: 1.5rem 2.5rem;
   border-bottom: 2px solid #000000;
   border-radius: 0;
-  background-color: #fafafa;
+  background-color: #DFDFDF;
 }
 
 /* header {
