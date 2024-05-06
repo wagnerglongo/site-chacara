@@ -8,7 +8,8 @@
 
 body {
   /* background-color: #DFDFDF; */
-  background-color: #6c3d22;
+  /* background-color: #6c3d22; */
+  background: linear-gradient(to right, #6c3d22, #ffffff);
 }
 
 ul {
