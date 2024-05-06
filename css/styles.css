@@ -101,7 +101,7 @@ button:hover {
   gap: 3rem;
   padding: 2rem 2.5rem;
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 0 0;
 }
 
 #posts-container {
