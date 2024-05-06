@@ -226,6 +226,7 @@ button:hover {
 .modalImg {
   cursor: pointer;
   transition: 1s;
+  width: 25%;
 }
 
 
