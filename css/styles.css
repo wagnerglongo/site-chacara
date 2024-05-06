@@ -206,7 +206,7 @@ button:hover {
 }
 
 #title-image {
-  margin-left: 75px;
+  /* margin-left: 75px; */
 }
 
 #fotos-aparecer {
@@ -215,8 +215,8 @@ button:hover {
   flex-wrap: wrap;
   text-align: center;
   justify-content: center;
-  width: 60%;
-  margin: auto;
+  width: 100%;
+  /* margin: auto; */
   margin-top: 0px;
   margin-bottom: 90px;
   gap: 10px;
@@ -226,7 +226,7 @@ button:hover {
 .modalImg {
   cursor: pointer;
   transition: 1s;
-  width: 25%;
+  width: 30%;
 }
 
 
