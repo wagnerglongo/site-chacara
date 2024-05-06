@@ -31,6 +31,10 @@ button {
   font-weight: 500;
 }
 
+h3 {
+  color: #FFF;
+}
+
 a:hover,
 li:hover,
 button:hover {
