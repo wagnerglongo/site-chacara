@@ -90,6 +90,7 @@ button:hover {
 #navbar-inner h2 {
   margin: auto;
   border-radius: 0;
+  color: #FFF;
   border-bottom: 2px solid #000;
   padding-bottom: 3px;
 }
