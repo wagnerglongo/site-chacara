@@ -69,9 +69,10 @@ button:hover {
   top: 20px;
   left: 20px;
   background-color: #694a3d5e;
- width: 40%;
+ width: 33%;
  height: 40px;
- border-radius: 15px;
+ border-radius: 11px;
+ z-index: 60;
   
 }
 
