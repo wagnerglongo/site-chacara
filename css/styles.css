@@ -274,6 +274,7 @@ button:hover {
   .container {
     flex-wrap: wrap;
     flex-direction: column;
+    height: 100%;
   }
 
   #navbar-inner {
