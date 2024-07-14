@@ -63,15 +63,12 @@ button:hover {
 
 /* Navbar */
 #navbar {
-  position: sticky;
-  top: 20px;
-  left: 20px;
+  display: flex;
   /* background-color: #694a3d5e; */
- width: 33%;
+ width: 50%;
+ margin: auto;
  height: 40px;
  border-radius: 11px;
- z-index: 60;
-  
 }
 
 /* header {
