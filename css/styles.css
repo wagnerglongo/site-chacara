@@ -267,6 +267,9 @@ button:hover {
 
 /* moble */
 @media (max-width:900px) {
+  body{
+    height: 100%;
+  }
 
   .container {
     flex-wrap: wrap;
@@ -323,14 +326,4 @@ button:hover {
     margin: 5px auto;
 
   }
-}
-
-
-#fechar {
-  position: absolute;
-  top: 1965px;
-  right: 80px;
-  z-index: 80;
-  font-size: 20px;
-  cursor: pointer;
 }
