@@ -45,12 +45,10 @@ button:hover {
   display: none;
 }
 
+/* Estilos para a imagem ampliada */
 .img.ampliada {
-  /* Estilos para a imagem ampliada */
   width: 55%;
-  /* Ocupa toda a largura do contêiner */
   height: auto;
-  /* Mantém a proporção original da imagem */
   position: relative;
   top: 0;
   left: 0;
