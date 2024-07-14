@@ -299,6 +299,7 @@ button:hover {
   }
 
   #siderbar {
+    position: relative;
     width: 100%;
   }
 
