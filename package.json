@@ -1,0 +1,14 @@
+{
+  "name": "site-chacara",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Site da Chácara Nossa Senhora Aparecida: galeria, comodidades e reserva pelo WhatsApp.",
+  "type": "module",
+  "scripts": {
+    "images": "node scripts/optimize-images.mjs",
+    "dev": "npx serve ."
+  },
+  "devDependencies": {
+    "sharp": "0.33.5"
+  }
+}

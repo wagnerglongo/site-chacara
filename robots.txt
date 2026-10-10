@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://site-chacara-tau.vercel.app/sitemap.xml
